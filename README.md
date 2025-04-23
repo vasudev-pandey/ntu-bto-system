@@ -8,8 +8,8 @@ This CLI application manages Build-To-Order projects for NTU SC2002.
 
 ##  Team
 - Vasudev Pandey
-- Javen
+- Javen Kok
 - Mitul Muhammed
 - Arnav Arora
 - Yash Agarwal
-- Nuvaan
+- Nuvaan Murugesan

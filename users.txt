@@ -1,0 +1,10 @@
+T8765432F,Michael,36,Single,password,Manager
+S3456789E,Rachel,25,Single,password,Applicant
+S6543210I,Emily,28,Single,password,Officer
+T1234567J,David,29,Married,password,Officer
+T7654321B,Sarah,40,Married,password,Applicant
+T2109876H,Daniel,36,Single,password,Officer
+S5678901G,Jessica,26,Married,password,Manager
+S9876543C,Grace,37,Married,password,Applicant
+S1234567A,John,35,Single,password,Applicant
+T2345678D,James,30,Married,password,Applicant

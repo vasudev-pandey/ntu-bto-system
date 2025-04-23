@@ -1,0 +1,7 @@
+Project Name: Acacia Breeze
+Neighborhood: Yishun
+Flats: TWO_ROOM:2;THREE_ROOM:3
+Open Date: 2025-02-15
+Close Date: 2025-07-20
+Manager: Jessica
+Officers: Daniel,Emily
